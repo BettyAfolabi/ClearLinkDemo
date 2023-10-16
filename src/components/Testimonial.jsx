@@ -17,7 +17,7 @@ function Testimonial() {
       <Stack direction="row" justifyContent="space-between">
         <Stack spacing={3} sx={{ width: "640px" }}>
           <Stack sx={{ width: "60px" }}>
-            <img src="src\assets\Shopify.com svg.png" alt="shopify" />
+            <img src="public\Shopify.com svg.png" alt="shopify" />
           </Stack>
           <Rating
             value={value}
@@ -41,7 +41,7 @@ function Testimonial() {
           <Stack direction="row" spacing={2}>
             <Stack direction="row" sx={{ width: "300px" }}>
               <Stack sx={{ width: "50px" }}>
-                <img src="src\assets\Sarah.png" alt="Sarah" />
+                <img src="public\Sarah.png" alt="Sarah" />
               </Stack>
               <Stack sx={{ textAlign: "start", fontWeight: "bold" }}>
                 <Typography>Sarah Thompson</Typography>
@@ -74,7 +74,7 @@ function Testimonial() {
           </Stack>
         </Stack>
         <Stack sx={{ width: "500px" }}>
-          <img src="src\assets\groupPhoto.png" alt="grouped-photo" />
+          <img src="public\groupPhoto.png" alt="grouped-photo" />
         </Stack>
       </Stack>
     </Box>

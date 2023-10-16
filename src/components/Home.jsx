@@ -30,7 +30,7 @@ function Home() {
   return (
     <Box
       sx={{
-        backgroundImage: "url('src/assets/Background pattern.png')",
+        backgroundImage: "url('public/Background pattern.png')",
         paddingX: "4rem",
       }}
     >
@@ -57,8 +57,8 @@ function Home() {
               aria-label="logo"
               sx={{ paddingTop: "5px" }}
             >
-              <img src="src\assets\Vector.png" />
-              <img src="src\assets\Vector (1).png" />
+              <img src="public\Vector.png" />
+              <img src="public\Vector (1).png" />
             </Box>
             <Typography variant="h6">ClearLink</Typography>
           </Stack>
@@ -169,18 +169,18 @@ function Home() {
               </Button>
               <Button color="primary" size="small">
                 <Stack sx={{ paddingRight: "5px", paddingBottom: "5px" }}>
-                  <img src="src\assets\Group 2.png" alt="bot" />
+                  <img src="public\Group 2.png" alt="bot" />
                 </Stack>
                 Discover AI assistant
               </Button>
             </Stack>
             <Stack direction="row" spacing={2}>
               <AvatarGroup size="small">
-                <Avatar src="src\assets\Avatar.png" />
-                <Avatar src="src\assets\Avatar (1).png" />
-                <Avatar src="src\assets\Avatar (2).png" />
-                <Avatar src="src\assets\Avatar (3).png" />
-                <Avatar src="src\assets\Avatar (4).png" />
+                <Avatar src="public\Avatar.png" />
+                <Avatar src="public\Avatar (1).png" />
+                <Avatar src="public\Avatar (2).png" />
+                <Avatar src="public\Avatar (3).png" />
+                <Avatar src="public\Avatar (4).png" />
               </AvatarGroup>
               <Stack spacing={1}>
                 <Stack direction="row">
@@ -208,7 +208,7 @@ function Home() {
           }}
         >
           <Stack sx={{ width: "360px", paddingBottom: "30px" }}>
-            <img src="src\assets\Frame 27.png" />
+            <img src="public\Frame 27.png" />
           </Stack>
           <Stack
             direction="row"
@@ -217,22 +217,22 @@ function Home() {
             sx={{ width: "300px", margin: "auto" }}
           >
             <Stack sx={{ width: "40px" }}>
-              <img src="src\assets\zap.png" />
+              <img src="public\zap.png" />
             </Stack>
             <Stack sx={{ width: "40px" }}>
-              <img src="src\assets\zap (1).png" />
+              <img src="public\zap (1).png" />
             </Stack>
             <Stack sx={{ width: "40px" }}>
-              <img src="src\assets\zap (2).png" />
+              <img src="public\zap (2).png" />
             </Stack>
             <Stack sx={{ width: "40px" }}>
-              <img src="src\assets\zap (3).png" />
+              <img src="public\zap (3).png" />
             </Stack>
             <Stack sx={{ width: "40px" }}>
-              <img src="src\assets\zap (4).png" />
+              <img src="public\zap (4).png" />
             </Stack>
             <Stack sx={{ width: "40px" }}>
-              <img src="src\assets\zap (5).png" />
+              <img src="public\zap (5).png" />
             </Stack>
           </Stack>
         </Stack>

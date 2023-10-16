@@ -25,12 +25,12 @@ function Social() {
           height: "25px",
         }}
       >
-        <img src="src\assets\Shopify.com svg.png" alt="shopify" />
-        <img src="src\assets\Coinbase svg.png" alt="coin" />
-        <img src="src\assets\Dropbox svg.png" alt="drobbox" />
-        <img src="src\assets\Intercom svg.png" alt="intercom" />
-        <img src="src\assets\Marvel svg.png" alt="marvel" />
-        <img src="src\assets\Automattic svg.png" alt="Auto" />
+        <img src="public\Shopify.com svg.png" alt="shopify" />
+        <img src="public\Coinbase svg.png" alt="coin" />
+        <img src="public\Dropbox svg.png" alt="drobbox" />
+        <img src="public\Intercom svg.png" alt="intercom" />
+        <img src="public\Marvel svg.png" alt="marvel" />
+        <img src="public\Automattic svg.png" alt="Auto" />
       </Stack>
     </Box>
   );

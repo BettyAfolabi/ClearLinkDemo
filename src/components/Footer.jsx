@@ -24,8 +24,8 @@ function Footer() {
               aria-label="logo"
               sx={{ paddingTop: "5px" }}
             >
-              <img src="src\assets\Vector.png" />
-              <img src="src\assets\Vector (1).png" />
+              <img src="public\Vector.png" />
+              <img src="public\Vector (1).png" />
             </Box>
             <Typography variant="h6">ClearLink</Typography>
           </Stack>
@@ -310,11 +310,11 @@ function Footer() {
               Get the app
             </Typography>
             <Stack sx={{ paddingBottom: "7px" }}>
-              <img src="src\assets\Mobile app store badge.png" alt="store" />
+              <img src="public\Mobile app store badge.png" alt="store" />
             </Stack>
             <Stack>
               <img
-                src="src\assets\Mobile app store badge (1).png"
+                src="public\Mobile app store badge (1).png"
                 alt="store2"
               />
             </Stack>
