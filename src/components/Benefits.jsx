@@ -29,7 +29,7 @@ function Benefits() {
           sx={{ width: "600px" }}
         >
           <Grid item md={6} sx={{ textAlign: "start" }}>
-            <img src="public\video.png" alt="video" />
+            <img src="./video.png" alt="video" />
             <Typography
               variant="subtitle2"
               sx={{ color: "#101828", fontWeight: "bold" }}
@@ -42,7 +42,7 @@ function Benefits() {
             </Typography>
           </Grid>
           <Grid item md={6} sx={{ textAlign: "start" }}>
-            <img src="public\voice.png" alt="voice" />
+            <img src="./voice.png" alt="voice" />
             <Typography
               variant="subtitle2"
               sx={{ color: "#101828", fontWeight: "bold" }}
@@ -55,7 +55,7 @@ function Benefits() {
             </Typography>
           </Grid>
           <Grid item md={6} sx={{ textAlign: "start" }}>
-            <img src="public\file.png" alt="file" />
+            <img src="./file.png" alt="file" />
             <Typography
               variant="subtitle2"
               sx={{ color: "#101828", fontWeight: "bold" }}
@@ -68,7 +68,7 @@ function Benefits() {
             </Typography>
           </Grid>
           <Grid item md={6} sx={{ textAlign: "start" }}>
-            <img src="public\lock.png" alt="lock" />
+            <img src="./lock.png" alt="lock" />
             <Typography
               variant="subtitle2"
               sx={{ color: "#101828", fontWeight: "bold" }}
@@ -82,7 +82,7 @@ function Benefits() {
           </Grid>
         </Grid>
         <Stack sx={{ width: "400px" }}>
-          <img src="public\Rectangle 1.png" alt="benefited" />
+          <img src="./Rectangle 1.png" alt="benefited" />
         </Stack>
       </Stack>
     </Stack>

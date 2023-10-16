@@ -50,7 +50,7 @@ function Action() {
         </Stack>
       </Stack>
       <Stack sx={{ width: "604px" }}>
-        <img src="public\screen mockup.png" alt="mockup" />
+        <img src="./screen mockup.png" alt="mockup" />
       </Stack>
     </Box>
   );
