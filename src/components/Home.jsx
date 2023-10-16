@@ -31,7 +31,7 @@ function Home() {
     <Box
       sx={{
         backgroundImage: "url('./Background pattern.png')",
-        paddingX: "4rem",
+        paddingX: "6rem",
       }}
     >
       <AppBar

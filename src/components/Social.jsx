@@ -7,7 +7,7 @@ function Social() {
         display: "flex",
         flexDirection: "column",
         backgroundColor: "white",
-        paddingX: "4rem",
+        paddingX: "6rem",
         marginY: "2rem",
       }}
     >

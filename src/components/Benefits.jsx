@@ -3,7 +3,7 @@ import { Typography, Stack, Grid } from "@mui/material";
 function Benefits() {
   return (
     <Stack
-      sx={{ paddingX: "4rem", paddingY: "36px", backgroundColor: "white" }}
+      sx={{ paddingX: "6rem", paddingY: "36px", backgroundColor: "white" }}
     >
       <Stack sx={{ textAlign: "start", padding: "7px" }}>
         <Typography color="primary" sx={{ fontWeight: "bold" }}>

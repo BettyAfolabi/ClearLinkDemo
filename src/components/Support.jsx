@@ -17,7 +17,7 @@ function Support() {
   };
 
   return (
-    <Box sx={{ backgroundColor: "white", paddingY: "36px", paddingX: "4rem" }}>
+    <Box sx={{ backgroundColor: "white", paddingY: "36px", paddingX: "6rem" }}>
       <Stack
         direction="row"
         justifyContent="space-between"

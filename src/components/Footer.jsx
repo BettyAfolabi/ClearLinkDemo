@@ -10,11 +10,10 @@ import {
 
 function Footer() {
   return (
-    <Box sx={{ paddingX: "4rem" }}>
-      <Stack
-        direction="row"
-        sx={{ backgroundColor: "white", paddingY: "36px" }}
-      >
+    <Stack
+      sx={{ paddingX: "6rem", paddingY: "36px", backgroundColor: "white" }}
+    >
+      <Stack direction="row">
         <Stack sx={{ width: "270px" }}>
           <Stack direction="row" spacing={2}>
             <Box
@@ -338,7 +337,7 @@ function Footer() {
           <YouTube />
         </Stack>
       </Stack>
-    </Box>
+    </Stack>
   );
 }
 

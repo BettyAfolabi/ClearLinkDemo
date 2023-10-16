@@ -13,7 +13,7 @@ function Testimonial() {
   const [value, setValue] = React.useState(5);
 
   return (
-    <Box sx={{ paddingY: "36px", paddingX: "4rem" }}>
+    <Box sx={{ paddingY: "36px", paddingX: "6rem" }}>
       <Stack direction="row" justifyContent="space-between">
         <Stack spacing={3} sx={{ width: "640px" }}>
           <Stack sx={{ width: "60px" }}>
