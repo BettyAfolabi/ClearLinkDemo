@@ -10,10 +10,8 @@ import {
 
 function Footer() {
   return (
-    <Stack
-      sx={{ paddingX: "6rem", paddingY: "36px", backgroundColor: "white" }}
-    >
-      <Stack direction="row">
+    <Stack sx={{ paddingX: "6rem", paddingY: "36px" }}>
+      <Stack direction="row" sx={{ backgroundColor: "white" }}>
         <Stack sx={{ width: "270px" }}>
           <Stack direction="row" spacing={2}>
             <Box
@@ -322,7 +320,6 @@ function Footer() {
           display: "flex",
           flexDirection: "row",
           justifyContent: "space-between",
-          width: "85%",
           margin: "25px",
           color: "gray",
         }}

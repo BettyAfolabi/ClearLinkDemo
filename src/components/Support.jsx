@@ -17,7 +17,7 @@ function Support() {
   };
 
   return (
-    <Box sx={{ backgroundColor: "white", paddingY: "36px", paddingX: "6rem" }}>
+    <Box sx={{ backgroundColor: "white", paddingY: "40px", paddingX: "6rem" }}>
       <Stack
         direction="row"
         justifyContent="space-between"
@@ -46,7 +46,7 @@ function Support() {
               aria-controls="panel1-content"
               expandIcon={<ExpandMore />}
             >
-              <Typography sx={{ fontWeight: "500", fontSize: "12px" }}>
+              <Typography sx={{ fontWeight: "500", fontSize: "16px" }}>
                 How many participants can join a ClearLink video conference?
               </Typography>
             </AccordionSummary>
@@ -72,7 +72,7 @@ function Support() {
               aria-controls="panel2-content"
               expandIcon={<ExpandMore />}
             >
-              <Typography sx={{ fontWeight: "500", fontSize: "12px" }}>
+              <Typography sx={{ fontWeight: "500", fontSize: "16px" }}>
                 Can I use ClearLink on multiple devices?
               </Typography>
             </AccordionSummary>
@@ -97,7 +97,7 @@ function Support() {
               aria-controls="panel3-content"
               expandIcon={<ExpandMore />}
             >
-              <Typography sx={{ fontWeight: "500", fontSize: "12px" }}>
+              <Typography sx={{ fontWeight: "500", fontSize: "16px" }}>
                 Is ClearLink compatible with other video conferencing platforms?
               </Typography>
             </AccordionSummary>
@@ -122,7 +122,7 @@ function Support() {
               aria-controls="panel4-content"
               expandIcon={<ExpandMore />}
             >
-              <Typography sx={{ fontWeight: "500", fontSize: "12px" }}>
+              <Typography sx={{ fontWeight: "500", fontSize: "16px" }}>
                 How does ClearLink ensure the security of my video conferences?
               </Typography>
             </AccordionSummary>
@@ -146,7 +146,7 @@ function Support() {
               aria-controls="panel5-content"
               expandIcon={<ExpandMore />}
             >
-              <Typography sx={{ fontWeight: "500", fontSize: "12px" }}>
+              <Typography sx={{ fontWeight: "500", fontSize: "16px" }}>
                 Do I need to download any software to use ClearLink?
               </Typography>
             </AccordionSummary>
@@ -170,7 +170,7 @@ function Support() {
               aria-controls="panel6-content"
               expandIcon={<ExpandMore />}
             >
-              <Typography sx={{ fontWeight: "500", fontSize: "12px" }}>
+              <Typography sx={{ fontWeight: "500", fontSize: "16px" }}>
                 What kind of customer support does ClearLink provide?
               </Typography>
             </AccordionSummary>
